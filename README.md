@@ -12,3 +12,6 @@ A recipe search app using external APIs to explore and save your favorite recipe
 - JavaScript (ES6+)  
 - HTML & CSS  
 - API Integration
+
+### 📝 Note  
+This project is part of the **JavaScript Course by Jonas Schmedtmann**.
